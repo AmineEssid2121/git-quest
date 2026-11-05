@@ -1,4 +1,7 @@
 === VAULT ALPHA ===
 content: 0xC0FFEE
 STATUS: OPEN
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1cb23d69ee6d5ba4006d5721cb73b898972784f3
